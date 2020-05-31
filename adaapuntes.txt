@@ -1,0 +1,4 @@
+triangle inequality:
+the hypotenuse will always be smaller than the sum of the cathetus
+so this hypotenuse will represent the shortest distance between 2 points assuming I dont make any stops inbetween them
+
